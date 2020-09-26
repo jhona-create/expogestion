@@ -1,2 +1,0 @@
-# expogestion
-exposicion avimex
